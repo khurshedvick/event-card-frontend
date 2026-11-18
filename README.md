@@ -36,7 +36,7 @@ git add frontend && git commit -m "Update frontend submodule"
 git push origin main
 ```
 
-The GitHub copy is at `https://github.com/octocl/event-card-frontend` (branch `codex/eventcard-editor`); the parent planning repo is at `https://github.com/octocl/event-card-planning`.
+The GitHub copy is at `https://github.com/khurshedvick/event-card-frontend` (branch `codex/eventcard-editor`); the parent planning repo is at `https://github.com/khurshedvick/event-card-planning`.
 
 ## Scope of this review build
 
